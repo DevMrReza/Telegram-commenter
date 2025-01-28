@@ -40,3 +40,16 @@ Follow these steps to set up the bot on your local machine:
 ```bash
 git clone https://github.com/DevMrReza/Telegram-commenter.git
 cd Telegram-commenter
+
+
+## 📝 Commands
+
+| **Command**           | **Description**                                    |
+|------------------------|----------------------------------------------------|
+| `/comment on`         | Turn the bot on.                                   |
+| `/comment off`        | Turn the bot off.                                  |
+| `/add_comment [comment]` | Add a new comment to the list.                   |
+| `/remove_comment [index]` | Remove a comment by its index.                  |
+| `/list_comments`      | Display the current list of comments.              |
+| `/help`               | Show the list of all available commands.           |
+
