@@ -1,25 +1,42 @@
-# Telegram Commenter Bot
+# Telegram Commenter Bot 🚀
 
-This Python script is a Telegram bot that automatically replies to messages in a specified channel with random comments from a predefined list. The bot can be controlled by an admin to manage the comments and toggle the bot's status.
+A powerful, customizable Telegram bot designed to enhance engagement in channels by automatically replying to messages with random comments. With advanced admin controls and a user-friendly setup, this bot is perfect for automating community interactions.
 
-## Features
+---
 
-- **Automatic Replies**: The bot replies to messages in a specified channel with random comments.
-- **Admin Commands**: Admin can add or remove comments through private commands.
-- **Bot Control**: Admin can start or stop the bot at any time.
+## ✨ Features
 
-## Requirements
+- **Automatic Engagement**:  
+  Automatically replies to messages in target channels with random comments to boost activity.  
 
-- Python 3.7 or higher
-- A Telegram API ID and API Hash (you can get them from [my.telegram.org](https://my.telegram.org/))
-- The following Python library:
-  - `pyrogram`
+- **Advanced Admin Controls**:  
+  - Start or stop the bot dynamically.  
+  - Add or remove comments from the pool with ease.  
+  - View and manage the list of active comments directly via commands.
 
-## Installation
+- **Lightweight & Efficient**:  
+  Built with the robust `Telethon` library, ensuring smooth performance and scalability.  
 
-Follow these steps to set up and run the bot on your local machine:
+- **Customizable & Secure**:  
+  Fully customizable settings with secure admin-only access.
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/DevMrReza/Telegram-commenter.git
-   cd Telegram-commenter
+---
+
+## 🛠️ Requirements
+
+- **Python**: Version 3.7 or higher  
+- **Telegram API Credentials**:  
+  - Obtain `API ID` and `API Hash` from [my.telegram.org](https://my.telegram.org)  
+- **Dependencies**:  
+  - `Telethon` (Install via `pip install telethon`)
+
+---
+
+## 🚀 Installation & Setup
+
+Follow these steps to set up the bot on your local machine:
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/DevMrReza/Telegram-commenter.git
+cd Telegram-commenter
