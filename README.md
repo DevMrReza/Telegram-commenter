@@ -40,7 +40,8 @@ Follow these steps to set up the bot on your local machine:
 ```bash
 git clone https://github.com/DevMrReza/Telegram-commenter.git
 cd Telegram-commenter
-
+```
+---
 
 ## 📝 Commands
 
