@@ -54,3 +54,9 @@ cd Telegram-commenter
 | `/list_comments`      | Display the current list of comments.              |
 | `/help`               | Show the list of all available commands.           |
 
+---
+
+Now you're all set! 🎉
+If you encounter any issues, feel free to reach out to @FBI34.
+
+
